@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Test commit 1
+      Test commit 2
     </div>
   );
 }
